@@ -1,7 +1,25 @@
+html{
+	background-color: #191919; 
+}
+
+body{
+	background-color: : #191919;
+}
+
 h1, h2, h3, h4{
 	font-family: 'Montserrat', sans-serif;
+	color: #D1D1D1;
 }
 
 p{
 	font-family: 'Oxygen', sans-serif;
+	color: #D1D1D1;
+}
+
+a{
+	color: #00E9FF;
+}
+
+.body-content{
+	background-color: #191919;
 }
