@@ -1,0 +1,46 @@
+header {
+	height: 100px;
+	width: 1200px;
+	margin: 0 auto;
+}
+
+header ul{
+	list-style: none;
+}
+
+header ul>li{
+	float: left;
+}
+
+nav{
+	padding-top: 47px;
+}
+
+.title{
+	padding-left: 20px
+}
+
+.title h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3.5em;
+	padding-bottom: 0px;
+	margin: 0 auto;
+}
+
+.title h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2em;
+	padding-top: 5px;
+	margin: 0 auto;
+}
+
+.navigation li{
+	display: inline;
+	width: 100px;
+}
+
+.navigation li>a{
+	font-size: 1.5em;
+	display: block;
+	text-align: center;
+}
