@@ -1,6 +1,9 @@
-header {
+.header-section {
 	height: 100px;
-	width: 1200px;
+}
+
+header{
+	width: 100%;
 	margin: 0 auto;
 }
 
