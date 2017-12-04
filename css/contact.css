@@ -11,7 +11,7 @@ h1, h2, h3, h4{
 	color: #D1D1D1;
 }
 
-p{
+p, label{
 	font-family: 'Oxygen', sans-serif;
 	color: #D1D1D1;
 }
@@ -79,7 +79,7 @@ nav{
 }
 
 .content{
-	padding-top: 50px;
+	padding-top: 50px
 }
 
 .content>img{
@@ -93,4 +93,14 @@ nav{
 
 .home-content{
 	padding-left: 370px;
+}
+
+input {
+    padding:4px;
+    border-radius:2px;
+    border:1px solid #aaa;
+}
+
+input[type=text] {
+    background:#ddd;
 }
