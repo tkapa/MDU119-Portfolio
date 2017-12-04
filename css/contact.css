@@ -41,9 +41,6 @@ a{
 
 .horizontal-list>li{
 	display: inline-block;
-}
-
-.padded-right{
 	padding-right: 10px;
 }
 
@@ -86,7 +83,7 @@ nav{
 }
 
 .content>img{
-	width: 30%;
+	height: 350px;
 	float: left;
 }
 
@@ -94,34 +91,6 @@ nav{
 	margin-top: 0;
 }
 
-.portfolio-content{
-	padding: 0;
-	margin-left: 33%;
-}
-
-.portfolio-list{
-	clear: left;
-	padding-top: 30px;
-	margin: 0 0;
-}
-
-.project-clickthrough img{
-	width: 100%;
-}
-
-.project-clickthrough p{
-	font-size: 1.2em;
-	text-align: center;
-	margin-bottom: 0;
-}
-
-.one-third{
-	width: 30%;
-	padding-right: 3%;
-}
-
-@media screen and (max-width:600){
-	.portfolio-list>li{
-		width: 100%;
-	}
+.home-content{
+	padding-left: 370px;
 }
