@@ -85,18 +85,31 @@ nav{
 	padding-top: 50px;
 }
 
-.content>img{
-	width: 30%;
-	float: left;
-}
-
 .content h1{
 	margin-top: 0;
 }
 
+.project-images{
+  position: absolute;
+}
+
+.project-images ul{+
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-subline{
+  margin-top: 0;
+}
+
+.centred-text{
+  text-align: center;
+}
+
 .portfolio-content{
 	padding: 0;
-	margin-left: 33%;
+	margin-left: 25%;
 }
 
 .portfolio-list{
