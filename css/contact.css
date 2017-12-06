@@ -105,16 +105,20 @@ nav{
 }
 
 input {
-    width: 50%;
+    width: 65%;
     padding:4px;
     border-radius:2px;
     border:1px solid #fff;
     background-color: #292929;
+	color: #D1D1D1;
 }
 
 textarea{
+ resize: vertical;
   padding:4px;
   border-radius:2px;
   border:1px solid #fff;
   background-color: #292929;
+  width: 64%;
+  color: #D1D1D1;
 }
