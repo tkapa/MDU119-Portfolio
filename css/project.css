@@ -90,10 +90,10 @@ nav{
 }
 
 .project-images{
-  position: absolute;
+  float:left;
 }
 
-.project-images ul{+
+.project-images ul{
   list-style: none;
   padding: 0;
   margin: 0;
