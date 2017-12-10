@@ -94,3 +94,29 @@ nav{
 .home-content{
 	padding-left: 370px;
 }
+
+@media only screen and (max-width: 700px){
+	.horizontal-list>li{
+		width: 100%;
+		padding-top: 10px;
+		margin: 0 auto;
+	}
+
+	.nav-list>li{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.content>img{
+		margin: 0 auto;
+		height: 350px;
+		float: left;
+	}
+
+	.home-content{
+		clear: left;
+		width: 100%;
+		padding: 0;
+		padding-top: 10px;
+	}
+}
