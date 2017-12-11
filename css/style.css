@@ -95,6 +95,129 @@ nav{
 	padding-left: 370px;
 }
 
+.project-images{
+  float:left;
+}
+
+.project-images ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-subline{
+  margin-top: 0;
+}
+
+.centred-text{
+  text-align: center;
+}
+
+.portfolio-content-main{
+	padding: 0;
+	margin-left: 370px;
+}
+
+.portfolio-content{
+	padding: 0;
+	margin-left: 220px;
+}
+
+.portfolio-list{
+	clear: left;
+	padding-top: 30px;
+	margin: 0 0;
+}
+
+.project-clickthrough img{
+	width: 100%;
+}
+
+.project-clickthrough p{
+	font-size: 1.2em;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.one-third{
+	width: 30%;
+	padding-right: 3%;
+}
+
+.blog-block{
+  padding-left: 30px;
+	float:right;
+}
+
+.blog-list{
+  list-style: none;
+  padding-left: 0;
+}
+
+.blog-list h2{
+  margin-bottom: 10px;
+}
+
+.blog-list h3{
+  margin-top: 0;
+}
+
+table{
+  width: 70%;
+}
+
+.table-heading{
+  width: 100%;
+  font-family: 'Oxygen', sans-serif;
+  color: #D1D1D1;
+  text-align: center;
+}
+
+th{
+  width: 30%;
+}
+
+td{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.foot{
+  clear: both;
+}
+
+.home-content{
+	padding-left: 370px;
+}
+
+.form-list{
+  list-style-type: none;
+  padding: 0;
+}
+
+.form-list li{
+  display: inline-block;
+}
+
+input {
+    width: 65%;
+    padding:4px;
+    border-radius:2px;
+    border:1px solid #fff;
+    background-color: #292929;
+	color: #D1D1D1;
+}
+
+textarea{
+ resize: vertical;
+  padding:4px;
+  border-radius:2px;
+  border:1px solid #fff;
+  background-color: #292929;
+  width: 64%;
+  color: #D1D1D1;
+}
+
 @media only screen and (max-width: 700px){
 	.horizontal-list>li{
 		width: 100%;
